@@ -21,7 +21,7 @@
         "clean-solc-0.5": "rm -rf ./packages/api/common/solc-0.5/node_modules"
     },
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.3"
     },
     "devDependencies": {
         "lerna": "^3.16.1"
